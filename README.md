@@ -8,7 +8,7 @@ Main data source: https://www.bigdatahub.co.kr/ (SK Telecom)
 ## Team Members & Organization
 COSE471(Data Science) @Korea University
 
-김민재 
+김민재 https://github.com/97alswo
 
 김효정 gywjdskql5915@gmail.com
 
