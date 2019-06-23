@@ -1,7 +1,7 @@
 # FoodDelivery-Prediction
 Data Science project for forecasting food delivery volume. Prediction models include Linear Regression, Ridge, Lasso, Neural Networks.
 
-배달주문량을 예측하는 데이터과학 프로젝트 입니다. 예측 모델은 선형회귀, 리지회귀, 라소회귀, 인공신경망을 사용했습니다.
+배달주문량을 예측하는 데이터과학 프로젝트입니다. 예측 모델은 선형회귀, 리지회귀, 라소회귀, 인공신경망을 사용했습니다.
 
 Main data source: https://www.bigdatahub.co.kr/ (SK Telecom)
 
