@@ -5,7 +5,9 @@ Data Science project for forecasting food delivery volume. Prediction models inc
 
 Main data source: https://www.bigdatahub.co.kr/ (SK Telecom)
 
-Click this [Link(링크)] to see what we did!(https://nbviewer.jupyter.org/github/ashtapor25/FoodDelivery-Prediction/blob/master/FoodDelivery-Prediction.ipynb)
+Click this *[Link(링크)]* to see what we did!
+
+[Link(링크)] : https://nbviewer.jupyter.org/github/ashtapor25/FoodDelivery-Prediction/blob/master/FoodDelivery-Prediction.ipynb
 
 ## Team Members & Organization
 COSE471(Data Science) @Korea University
