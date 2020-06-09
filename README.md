@@ -14,7 +14,7 @@ COSE471(Data Science) @Korea University
 
 김효정 gywjdskql5915@gmail.com
 
-신준수(Junsu Shin) https://github.com/ashtapor25
+신준수(Junsu Shin) https://github.com/junsushin-dev
 
 임경섭 https://github.com/upla
 
